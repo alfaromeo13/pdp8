@@ -1,0 +1,5 @@
+Program.txt -> y=2a+b+1
+Program2.txt -> y=(a/16+b)/16
+Program3.txt -> y=a+b+10, c<0
+                y=a^2+b^2+100, c>0
+Program4.txt -> test primjer indirektnog ciklusa
