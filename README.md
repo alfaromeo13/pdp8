@@ -1,5 +1,7 @@
 # PDP-8 Computer Simulator
-This is a project which was assigned to me at the University of Montenegro. Following code simulates the behavior of a PDP-8 computer by fetching, decoding, and executing instructions stored in memory, mimicking the basic functionality of a real computer architecture.
+This is a project which was assigned to me at the University of Montenegro. 
+
+Following code simulates the behavior of a PDP-8 computer by fetching, decoding, and executing instructions stored in memory, mimicking the basic functionality of a real computer architecture.
 
 <p align="center">
 <img src="https://github.com/alfaromeo13/pdp8/assets/60315689/363b2c59-ab04-41b5-9c8d-168252cc7ccf" alt="drawing"/>
