@@ -30,5 +30,5 @@ Following code simulates the behavior of a PDP-8 computer by fetching, decoding,
   ### Binary to Decimal Conversion:
   Utility functions convert binary numbers to decimal for various operations.
 
-### For a comprehensive understanding of the architecture, refer to the detailed documentation available at: 
- <a href="http://www.bitsavers.org/pdf/dec/pdp8/pdp8/F-81_PDP-8_Brochure_Mar65.pdf" target="_blank" > PDP-8 Brochure (March 1965) </a>
+### Documentation:
+For a comprehensive understanding of the architecture, refer to the detailed documentation available here: <a href="http://www.bitsavers.org/pdf/dec/pdp8/pdp8/F-81_PDP-8_Brochure_Mar65.pdf" target="_blank" > PDP-8 Brochure (March 1965) </a>
